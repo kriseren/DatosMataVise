@@ -1,6 +1,6 @@
-1. Se chocó aparcando con Fernando Alonso ~ Choque veloz
-2. Enterrado en un ataúd con el nombre de Marisa por error ~Entierro transfobo
-3. Kojima le metió en un Scape Room de Death Standing ~ Kojimao
+1. Inicias una nueva aventura donde no sabes que te podrá deparar la vida, nuevos descubrimientos y aventuras están por venir, al salir de casa te tropiezas por llevar las zapatillas desabrochadas y te partes el cuello contra un escalón ~ El principio
+2. Enterrado en un ataúd con el nombre de Marisa por error ~ Entierro transfobo
+3. Kojima te metió en un Scape Room de Death Standing ~ Kojimao
 4. Pelea con los gitanos del pueblo ~ Duelo A Muerte con Cuchillos
 5. Por el culo te la hinco te falta calle tonto ~ 5 5 5 5 5 5 5 5 todas por el culo te la hinco
 6. Deuda en el banco de los judíos ~ Dinero amarillo
@@ -546,7 +546,7 @@
 546. Comienzas a hacer un pollo frito y vas mal con el tiempo así que metes el pollo completamente congelado al horno y al mirar como va la cocción abres el horno y el pollo explota junto con tu cabeza ~ Pollo Bazooka 
 547. Comienzas a tener esquizofrenia por tanto estudiar para DAM y te empiezas a descontrolar pensando que Ricardo se te aparece en las esquinas, cuando cierras los ojos solo ves a Encarni riendo, empiezas a temblar y lloras en una esquina después de horas estudiando y días sin salir de casa, Jonás aparece en tu baño para decirte que tienes que hacer el proyecto más largo de la historia, empiezas a huir y sales de tu casa porque no te sientes seguro, sales corriendo y te paras en medio de la calle, al fin... no esuchas las voces, pero resulta que lo que no escuchaste fue el coche que venía hacía ti y te acaba atropellando, resulta que te acaba de atropellar Godo ~ Una verdadera historia de Terror 
 548. Sales en Halloween a pedir dulces y vas a casa del viejo Jenkins, es una casa totalmente aterradora y al tocar el timbre él aparece, el viejo Jenkins, un señor senil que asusta a los niños con su ojo de cristal, no para de gritar que los demonios le persiguen, en un momento comienza a gritar y saca su escopeta apunta en tu dirección, crees que estás muerto pero el con su huesudo brazo te aparta de la mira y dispara a un ser del inframundo que estaba a punto de absorver tu alma, el viejo Jenkins comienza a pelear con él mientras te grita que huyas, al día siguiente se dice que el viejo Jenkins murió de un infarto pero tu sabes la verdad, ese viejo no etsaba loco, y de hecho te salvó la vida, a los pocos días mueres porque te resvalas con un patín que te tira un niño pequeño en el parque para que te caigas de broma ~ Un final inesperado para una situación inesperada
-
+549. Se chocó aparcando con Fernando Alonso ~ Choque veloz
 
 
 
@@ -999,3 +999,4 @@
 
 
 1001. Sobrepasas los límites físicos del programa MataVise. Te pierdes por los mundos del Overflow y ArrayIndexOutOfBounds por varios miles de años. No sabes cómo, pero sigues vivo a pesar del paso del tiempo. Cuando crees que todo está perdido, consigues encontrar una pequeña función que contiene un return. Sin comerlo ni beberlo, vuelves al main y de ahí, viajas hasta el System.exit(0). No crees lo que tus ojos ven, pero sin duda es lo más bonito del mundo. La sociedad ha avanzado tanto... Los humanos evolucionaron y ahora todos los hombres son testículos gigantes que piensan con la polla. De repente, te tropiezas con tu propio zapato y mueres del impacto. ~ Gilipollas perdido
+0. La creación del universo fraccionada por polvo estelar, energía y un gran cumulo de materia provoca un agujero negro tan masivo que sobrepasa su propia capacidad en una escala tan masiva que lo denominan el Big Bang, de ello nacen las Galaxias, los sistemas estelares y los planetas, en uno de los trillones de planetas con las infimas posibilidades que existen de que se propicie la vida en uno de estos se crea y se desarrolla hasta ser inteligente, en una época con tecnología suficiente como para la globalización nace una persona que a partir de los años y las experiencias que recore llega a una página de Github donde clona un proyecto para probarlo o ejecuta una app chorra que le han pasado y resulta que ahora estás jugando a MataVise, todas las posibilidades te llevaron a esto y tus circunstancias también, recuerdas cuando se te murió tu mascota de pequeño? Eso te condicionó a llegar aquí, tú eres Vise y este es MataVise donde por aburrimiento empiezas a ver muertes, algunas asquerosas y otras graciosas, naciste para vivir este momento, disfruta cada segundo, por cierto mueres porque te vuelves viejo y ya ~ Genesis 
